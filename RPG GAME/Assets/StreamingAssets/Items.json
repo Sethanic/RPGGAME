@@ -1,0 +1,67 @@
+[
+    {
+        //rarity 1
+        "id": 0,
+        "title": "Wooden Club",
+        "slug": "wooden_club",
+        "type": "Weapon",
+        "variant": "Club",
+        "desc": "A club made of wood. Every adventurer's first friend.",
+        "stackable": false,
+        "value": 6,
+        "rarity": 1,
+        "trait": 0,
+        "stats": {
+            "damage": 4,
+            "armour": 0
+        }
+    },
+    {
+        "id": 1,
+        "title": "Shirt",
+        "slug": "shirt",
+        "type": "Armour",
+        "variant": "Chestpiece",
+        "desc": "A plain shirt, nothing special about it.",
+        "value": 4,
+        "stackable": false,
+        "rarity": 1,
+        "trait": 0,
+        "stats": {
+            "damage": 0,
+            "armour": 1
+        }
+    },
+    {
+        "id": 2,
+        "title": "Health Potion",
+        "slug": "health_potion",
+        "type": "Consumable",
+        "variant": "Potion",
+        "desc": "A concotion of herbs, spices and chemicals with mystical healing properties.",
+        "stackable": true,
+        "value": 15,
+        "rarity": 1,
+        "trait": 1,
+        "stats": {
+            "damage": 0,
+            "armour": 0
+        }
+    },
+    {
+        "id": 3,
+        "title": "Sauron's Ring",
+        "slug":  "saurons_ring",
+        "type": "Quest",
+        "variant": "Equippable",
+        "desc": "A ring embodying all of Morgoth's Lieutenant's evil and power",
+        "stackable": false,
+        "value": 1000000,
+        "rarity": 10,
+        "trait": 10000,
+        "stats": {
+            "damage": 50,
+            "armour": 30
+        }
+    }
+]

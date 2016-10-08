@@ -1,0 +1,26 @@
+[
+    // Quest
+    {
+        "id": 0,
+        "condition": "",
+        "type": "",
+        "name": "",
+        "description": ""
+    },
+    //NPC
+    {
+        "id": 1,
+        "condition": "Collection",
+        "type": "Side",
+        "name": "Shadow over the Dulen",
+        "description": "A Kurzahn plane is due to be launched to the Dulen mountains. It is up to you to intercept the airship at this Classified Kurzahn Military Base [1,1]"
+    },
+    //Key
+    {
+        "id": 2,
+        "condition": "Talk",
+        "type": "Key",
+        "name": "Shadow over the Dulen",
+        "description": "A Kurzahn plane is due to be launched to the Dulen mountains. It is up to you to intercept the airship at this Classified Kurzahn Military Base [1,1]"
+    }
+]
